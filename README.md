@@ -12,7 +12,7 @@ You will build a model that captures alpha signals and makes predictions against
 
 Submissions are evaluated by Pearson correlation coefficient. We will calculate the score by averaging the correlation coefficient between your predicted return series and the real market return series of the 10 assets (AVAX, ADA, SOL, BNB, TRX, DOGE, LINK, XRP, BTC, ETH).
 
-![Pearson correlation coefficient](images\image.png)
+![Pearson correlation coefficient](images/image.png)
 
 ### Final results
 
@@ -20,7 +20,7 @@ Submissions are evaluated by Pearson correlation coefficient. We will calculate 
 - **Correlation Coefficient**: Achieved an average Pearson correlation coefficient of 0.04705, indicating an acceptable positive relationship between the predicted and actual returns.
 - **Prize**: Awarded a consolidation prize of USD 1,000 for my performance. 
 
-![Final leaderboard](images\leaderboard.png)
+![Final leaderboard](images/leaderboard.png)
 
 ### My approach
 
