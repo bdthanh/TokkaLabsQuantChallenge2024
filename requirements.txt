@@ -1,0 +1,14 @@
+sagemaker 
+scikit-learn
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+imbalanced-learn
+optuna
+xgboost
+lightgbm 
+pmdarima
+ta
+scipy
